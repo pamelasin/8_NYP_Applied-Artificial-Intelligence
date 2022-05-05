@@ -6,7 +6,7 @@
 - 3-layer neural network with hyperparameter-tuning. Results showed having glorut_uniform as the weight initialiser, ADAM or RMSProp and Leaky ReLU activation function performed better. Other hyperparameters do not show consistently better results.
 - Best hyperparameters obtained and model run for fresh 50 epochs on 70-30 train test split. Highest test accuracy of 0.7367 after 30 epochs, test error converges around 30 epochs. 
 - Small dataset of 1000 audio files of 30-seconds each. Future consideration to take 3-second chunks to increase the number of datapoints by 10 times. 
-- Files include dataset and Python code. 
+- Files include dataset, Python code, report. 
 
 
 ## **Report excerpts**

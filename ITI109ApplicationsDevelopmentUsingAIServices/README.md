@@ -9,7 +9,7 @@
     - Detect intent and return a response
     - Give a sentiment score to feedback provided by the customer
     - Text-to-speech and speech-to-text supported
-- Files include Python code, Dialogflow agent
+- Files include Python code.
 
 
 ## **Presentation slide excerpts**
